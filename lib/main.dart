@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
       floatingActionButtonTheme: FloatingActionButtonThemeData(backgroundColor: Colors.amber) ,
     ),
 
-    home: ProfileScreen(),);
+    home: MessengerScreen(),);
 
   }
 
